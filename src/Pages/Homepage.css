@@ -1,0 +1,8 @@
+.home-page {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("../Assets/pageBg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+}

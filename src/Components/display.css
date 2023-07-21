@@ -1,0 +1,68 @@
+.cardDetails {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.cardFront {
+    width: 400px;
+    height: 230px;
+    background-image: url("../Assets/cardFront.png");
+    background-size: cover;
+    position: relative;
+    left: 200px;
+    border-radius: 12px;
+}
+
+.cardBack {
+    width: 400px;
+    height: 230px;
+    background-image: url("../Assets/cardBack.png");
+    background-size: cover;
+    position: relative;
+    left: 300px;
+    border-radius: 12px;
+}
+
+.card-details {
+    font-family: Inter;
+    color: rgba(255, 255, 255, 1);
+    padding: 18px;
+}
+
+.card-number {
+    font-size: 2em;
+    font-weight: 10em;
+    text-align: center;
+    line-height: 2em;
+    letter-spacing: 0.18em;
+    position: relative;
+    top: 90px;
+}
+
+.card-name {
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: 5em;
+    text-align: left;
+    line-height: 1em;
+    letter-spacing: 0.08em;
+    margin-left: 12px
+}
+
+.card-expiry {
+    font-size: 1em;
+    font-weight: 5em;
+    float: right;
+    line-height: 1em;
+    letter-spacing: 0.08em;
+}
+
+.cvv {
+    letter-spacing: 0.08em;
+    position: absolute;
+    right: 30px;
+    top: 77px;
+}
