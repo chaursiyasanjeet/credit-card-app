@@ -10,7 +10,7 @@
 .cardFront {
     width: 30vw;
     height: 35%;
-    background-image: url("../../assets/cardFront.png");
+    background-image: url("../../Assets/cardFront.png");
     background-size: cover;
     border-radius: 8px;
     margin-left: 15vw;
@@ -24,7 +24,7 @@
 .cardBack {
     width: 30vw;
     height: 35%;
-    background-image: url("../../assets//cardBack.png");
+    background-image: url("../../Assets//cardBack.png");
     background-size: cover;
     border-radius: 8px;
     margin-left: 20vw;
