@@ -38,12 +38,12 @@
 .card-number {
     position: absolute;
     bottom: 23%;
-    left: 5%;
+    left: 6%;
     font-family: Inter;
     font-size: 1.4em;
     font-weight: 600;
     line-height: 31px;
-    letter-spacing: 0.15em;
+    letter-spacing: 0.17em;
     color: rgb(255, 255, 255);
 }
 
