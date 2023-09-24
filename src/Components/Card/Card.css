@@ -38,9 +38,9 @@
 .card-number {
     position: absolute;
     bottom: 23%;
-    left: 6%;
+    left: 5%;
     font-family: Inter;
-    font-size: 1.3rem;
+    font-size: 1.4em;
     font-weight: 600;
     line-height: 31px;
     letter-spacing: 0.15em;
@@ -63,7 +63,7 @@
 .card-expiry {
     position: absolute;
     bottom: 8%;
-    right: 7%;
+    right: 8%;
     font-family: Roboto;
     font-size: 1rem;
     font-weight: 700;
