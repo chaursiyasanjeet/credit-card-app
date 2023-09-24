@@ -1,0 +1,102 @@
+.card-input-form {
+    height: 100vh;
+    width: 25vw;
+    position: absolute;
+    right: 14vw;
+    display: flex;
+    align-items: center;
+    background: rgba(217, 217, 217, 1);
+}
+
+span {
+    display: block;
+    font-family: Roboto;
+    font-size: 0.7rem;
+    font-weight: 700;
+    line-height: 1.1rem;
+    letter-spacing: 0.155em;
+    text-align: left;
+}
+
+input {
+    outline: none;
+    border: none;
+    padding-left: 5%;
+    height: 6vh;
+    border: 1px solid rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    margin-top: 1%;
+}
+
+input[type=text] {
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.125em;
+    text-align: left;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    width: fit-content
+}
+
+
+
+.input-name-box>input,
+.input-cardnumber-box>input {
+    width: 100%;
+}
+
+
+.input-expiry-cvv-box {
+    width: 100%;
+    display: flex;
+}
+
+.input-expiry>div>input {
+    width: 45%;
+}
+
+.input-expiry>div {
+    width: 74%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-cvv {
+    display: inline-block;
+    width: 100%;
+}
+
+.input-cvv>input {
+    width: 100%
+}
+
+button {
+    border: none;
+    border-radius: 8px;
+    height: 7vh;
+    background-color: rgba(34, 9, 48, 1);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer
+}
+
+.error-text {
+    color: rgb(220, 19, 19);
+    font-family: Inter;
+    font-size: 0.7rem;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+}

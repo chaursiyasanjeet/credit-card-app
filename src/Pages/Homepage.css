@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-image: url("../Assets/pageBg.png");
+    background-image: url("../assets/pageBg.png");
+    background-color: rgba(217, 217, 217, 1);
     background-position: left;
     background-repeat: no-repeat;
+    display: flex;
 }
