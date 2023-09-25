@@ -4,8 +4,7 @@ This project is made with [Create React App](https://github.com/facebook/create-
 
 ## Available Scripts
 
-In the project directory, you can run to install all depndecies
-
+In the project directory, you can run the below command to install all dependencies.
 ### npm install
 
 Runs the app in the development mode.\
@@ -13,22 +12,27 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #you can also see by clicking on this [link](https://credit-card-app-swart.vercel.app/)
 
-#Home Page
+### Home Page
 
-<img width="959" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/91f42815-5453-46f6-aa55-b42af6c3ec6e">
-
-
-
-
-#Error when card details are empty
-
-<img width="958" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/a43e4cef-8ab7-44b0-861f-2750353366f5">
+<img width="958" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/19384bfe-be1f-4627-ba9f-378ee7aa2d4d">
 
 
 
-#After entering card details and clicking on the confirm button card details will be replaced with the card images and a toast success message will appear
 
-<img width="959" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/e94726f7-ee36-4bf2-b475-45343f09acc8">
+
+### Error when card details are empty
+
+<img width="960" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/a0cec9d1-562d-4ffc-8ebc-bd851dfe55a6">
+
+
+
+
+### After entering card details and clicking on the confirm button card details will be replaced with the card images and a toast success message will appear
+
+<img width="956" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/dbf0f7d7-979b-402a-ae11-c2a973140b93">
+
+### THANK YOu
+
 
 
 
