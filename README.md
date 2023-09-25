@@ -29,7 +29,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### After entering card details and clicking on the confirm button card details will be replaced with the card images and a toast success message will appear
 
-<img width="956" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/dbf0f7d7-979b-402a-ae11-c2a973140b93">
+<img width="956" alt="image" src="https://github.com/chaursiyasanjeet/credit-card-app/assets/111435565/9ba91788-f29a-4c53-ac47-45eb189f4565">
+
 
 ### THANK YOu
 
