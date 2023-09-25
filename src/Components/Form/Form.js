@@ -136,7 +136,7 @@ export default function Input({ sendCardData }) {
       <ToastContainer
         position="top-right"
         autoClose={5000}
-        hideProgressBar={true}
+        hideProgressBar={false}
         newestOnTop={false}
         closeOnClick
         rtl={false}
