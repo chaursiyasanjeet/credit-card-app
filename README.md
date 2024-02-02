@@ -1,13 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Project
 
-This project is made with [Create React App](https://github.com/facebook/create-react-app).
+This project is Developed with React JS
 
 ## Available Scripts
 
 In the project directory, you can run the below command to install all dependencies.
 ### npm install
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #you can also see by clicking on this [link](https://credit-card-app-swart.vercel.app/)
